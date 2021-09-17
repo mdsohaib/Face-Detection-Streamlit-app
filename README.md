@@ -1,5 +1,5 @@
 <div align="center"> <img src="Screenshots/main.png" width="400" height="250"> </center> </div>
-Link-https://face-detection-streamlit-api.herokuapp.com/
+Link-https://face-detection-streamlt-api.herokuapp.com/
 <i>
   
   <h2> <i> Face Detection App </i> </h2>
